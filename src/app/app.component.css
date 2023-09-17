@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Estilos para la imagen de fondo */
+  
+  /* Estilos para la tarjeta */
+  .card {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  /* Estilos para la tabla */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  /* Estilos para el footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+  }
+  
